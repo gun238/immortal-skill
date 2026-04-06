@@ -52,6 +52,29 @@
 
 ---
 
+## 永生数字框架 · 四件套
+
+> 仓库根目录的 **[`SKILL.md`](SKILL.md)** 是**通用蒸馏引擎**（多角色、多平台、全套 `kit/`）。下面三套是**同一仓里的扩展 Skill**：叙事入口、资料加固、个人协议——**Star 只点一次，工具箱一次拿齐**。
+>
+> **给别人 / 给 AI 一键用**：先看 **[`FOR_AI.md`](FOR_AI.md)**（四段可复制指令 + 从仓库根运行的命令）。
+
+| 套 | 干啥 | 入口 |
+|:--:|------|------|
+| ① **永生蒸馏器** | 蒸馏任何人：聊天、文档、多平台采集 → 数字分身 | **[`SKILL.md`](SKILL.md)**（主入口） |
+| ② **蒸笼** | 国人好讲：蒸馒头 = 蒸馏；**蒸馏任何人**，含「公开方法论当参谋」场景 | Agent 执行：**[`steamer-skill/SKILL.md`](steamer-skill/SKILL.md)** · 人读故事：[README](steamer-skill/README.md) |
+| ③ **Distill Shield** | 移交前 **加固资料包**（Canary 等），提高未授权蒸馏成本 | [`distill-shield-skill/SKILL.md`](distill-shield-skill/SKILL.md) |
+| ④ **Distill Protocol** | 给资料包贴 **使用规矩**（戏称「牛马保护法」，梗名带引号） | [`distill-protocol-skill/SKILL.md`](distill-protocol-skill/SKILL.md) |
+
+**推荐给 AI 的一句话（整仓）**：
+
+```
+工作目录设为仓库根。请先读 FOR_AI.md，再按用户意图打开对应 SKILL.md 并执行；需要脚本时用 FOR_AI.md 里从仓库根写的 python 命令。
+```
+
+**推荐阅读顺序（按需）**：先 **协议**（规矩）→ 再 **蒸馏**（蒸笼或根 SKILL）→ 要交出去再 **Shield**（加固）。
+
+---
+
 ## 谁能被蒸馏？
 
 > 简单来说：你认识的所有人。包括你自己。
@@ -200,14 +223,18 @@ openclaw skills list | grep immortal-skill
 
 ```
 immortal-skill/
-├── SKILL.md            # 蒸馏器入口
-├── personas/           # 7 种角色蒸馏模板
-├── recipes/            # 蒸馏方法论（怎么提取、怎么合并、怎么处理矛盾）
-├── prompts/            # 给 LLM 的 Prompt 模板
-├── collectors/         # 12 个平台的数据采集器
-├── kit/                # CLI 工具集
-├── examples/           # 3 个蒸好的示例
-└── docs/               # 调研综述 + 平台数据获取指南
+├── FOR_AI.md                # 给 AI：四段复制块 + 从仓库根运行的命令
+├── SKILL.md                 # 蒸馏器主入口
+├── steamer-skill/           # 蒸笼：叙事入口（委托本仓 kit）
+├── distill-shield-skill/    # 资料加固 + Canary 生成
+├── distill-protocol-skill/  # 蒸馏协议（+ 生成器）
+├── personas/                # 7 种角色蒸馏模板
+├── recipes/                 # 蒸馏方法论
+├── prompts/
+├── collectors/
+├── kit/
+├── examples/
+└── docs/
 ```
 
 ---
