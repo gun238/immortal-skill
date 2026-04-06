@@ -1,6 +1,6 @@
 ---
 name: steamer
-description: "蒸笼：蒸馏任何人的叙事入口——对齐永生蒸馏引擎，强调生活化「蒸」与公开方法论顾问场景；委托上级 kit/personas 执行。"
+description: "蒸笼：蒸馏任何人的叙事入口——对齐数字永生引擎，强调生活化「蒸」与公开方法论顾问场景；委托上级 kit/personas 执行。"
 license: MIT
 metadata: {"openclaw": {"requires": {"bins": ["python3"]}, "emoji": "🫖", "parent_skill": "immortal-skill", "kit_path": "../kit"}}
 ---
@@ -25,7 +25,7 @@ metadata: {"openclaw": {"requires": {"bins": ["python3"]}, "emoji": "🫖", "par
 
 ## 核心理念
 
-**蒸笼 = 同一个永生蒸馏引擎，换一副好讲的家常叙事。**  
+**蒸笼 = 同一个数字永生引擎，换一副好讲的家常叙事。**  
 技术动作与根目录 [`SKILL.md`](../SKILL.md) 一致：**选角色 → 采集 → 分维度提取 → 证据分级 → 封包。**
 
 ## 路径约定

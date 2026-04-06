@@ -5,7 +5,7 @@ license: MIT
 metadata: {"openclaw": {"requires": {"bins": ["python3"]}, "emoji": "♾️"}, "kit_version": "2", "personas": ["self", "colleague", "mentor", "family", "partner", "friend", "public-figure"], "platforms": ["feishu", "dingtalk", "wechat", "imessage", "telegram", "whatsapp", "slack", "discord", "email", "twitter", "social-archive", "manual"]}
 ---
 
-# 数字永生蒸馏器
+# 数字永生
 
 ## 语言
 
