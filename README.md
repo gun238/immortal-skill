@@ -84,21 +84,25 @@
 >
 > 👉 **[在线体验 · 人格广场](https://agenworld.com/market)**
 
+<div align="center">
+<img src="assets/persona-plaza.png" alt="人格广场" width="800"/>
+</div>
+
 **当代 · 公开言论与思想**
 
 > 投资、科技、科学传播、AI 业界 Keynote 与公开论述等可核对材料
 
 | 人物 | 成功领域 | 蒸馏切面 | 在线体验 |
 |------|----------|----------|----------|
-| **Elon Musk** | 航天 / 电动车 / 能源 | 第一性原理 · 量产与多行星叙事 | [对话](https://agenworld.com/market) |
-| **Albert Einstein** | 理论物理 / 科学哲学 | 思想实验 · 相对论与和平主义 | [对话](https://agenworld.com/market) |
-| **Warren Buffett** | 价值投资 / 资本配置 | 能力圈 · 长期主义与致股东信 | [对话](https://agenworld.com/market) |
-| **Steve Jobs** | 消费电子 / 产品设计 | 人文 × 科技 · Keynote 与斯坦福演讲中的产品哲学 | [对话](https://agenworld.com/market) |
-| **Sam Altman** | AGI / 创业孵化 | 产品化 AGI 叙事 · 听证与博客中的治理框架 | [对话](https://agenworld.com/market) |
-| **Jensen Huang** | GPU / 加速计算 | 加速计算 · CUDA 生态与 GTC 第一性原理 | [对话](https://agenworld.com/market) |
-| **Demis Hassabis** | AI for Science / 深度学习 | 强化学习 × 科学 · AlphaFold 与 AI for Science | [对话](https://agenworld.com/market) |
-| **Yann LeCun** | 计算机视觉 / 自监督学习 | 世界模型与自监督 · 公开论战中的架构路线 | [对话](https://agenworld.com/market) |
-| **Geoffrey Hinton** | 深度学习 / 神经网络 | 表征学习 · 深度学习史与近年风险论述 | [对话](https://agenworld.com/market) |
+| **埃隆·马斯克** | 航天 / 电动车 / 能源 | 第一性原理 · 量产与多行星叙事 | [对话](https://agenworld.com/market) |
+| **阿尔伯特·爱因斯坦** | 理论物理 / 科学哲学 | 思想实验 · 相对论与和平主义 | [对话](https://agenworld.com/market) |
+| **沃伦·巴菲特** | 价值投资 / 资本配置 | 能力圈 · 长期主义与致股东信 | [对话](https://agenworld.com/market) |
+| **史蒂夫·乔布斯** | 消费电子 / 产品设计 | 人文 × 科技 · Keynote 与斯坦福演讲中的产品哲学 | [对话](https://agenworld.com/market) |
+| **山姆·奥特曼** | AGI / 创业孵化 | 产品化 AGI 叙事 · 听证与博客中的治理框架 | [对话](https://agenworld.com/market) |
+| **黄仁勋** | GPU / 加速计算 | 加速计算 · CUDA 生态与 GTC 第一性原理 | [对话](https://agenworld.com/market) |
+| **戴密斯·哈萨比斯** | AI for Science / 深度学习 | 强化学习 × 科学 · AlphaFold 与 AI for Science | [对话](https://agenworld.com/market) |
+| **杨立昆** | 计算机视觉 / 自监督学习 | 世界模型与自监督 · 公开论战中的架构路线 | [对话](https://agenworld.com/market) |
+| **杰弗里·辛顿** | 深度学习 / 神经网络 | 表征学习 · 深度学习史与近年风险论述 | [对话](https://agenworld.com/market) |
 
 **古典至文艺复兴**
 
@@ -106,11 +110,11 @@
 
 | 人物 | 成功领域 | 蒸馏切面 | 在线体验 |
 |------|----------|----------|----------|
-| **Socrates** | 哲学 / 辩证法 | 诘问法 · 古典文献中的哲人形象 | [对话](https://agenworld.com/market) |
-| **Archimedes** | 数学 / 工程 | 几何证明 · 古代数学与工程叙事 | [对话](https://agenworld.com/market) |
-| **Cleopatra VII** | 政治外交 / 帝国博弈 | 托勒密末期 · 罗马史述中的政治博弈 | [对话](https://agenworld.com/market) |
-| **Marcus Aurelius** | 哲学 / 帝国治理 | 沉思录 · 斯多葛与罗马皇帝 | [对话](https://agenworld.com/market) |
-| **Leonardo da Vinci** | 艺术 / 工程 / 科学 | 笔记与手稿 · 文艺复兴通才 | [对话](https://agenworld.com/market) |
+| **苏格拉底** | 哲学 / 辩证法 | 诘问法 · 古典文献中的哲人形象 | [对话](https://agenworld.com/market) |
+| **阿基米德** | 数学 / 工程 | 几何证明 · 古代数学与工程叙事 | [对话](https://agenworld.com/market) |
+| **克利奥帕特拉七世** | 政治外交 / 帝国博弈 | 托勒密末期 · 罗马史述中的政治博弈 | [对话](https://agenworld.com/market) |
+| **马可·奥勒留** | 哲学 / 帝国治理 | 沉思录 · 斯多葛与罗马皇帝 | [对话](https://agenworld.com/market) |
+| **列奥纳多·达·芬奇** | 艺术 / 工程 / 科学 | 笔记与手稿 · 文艺复兴通才 | [对话](https://agenworld.com/market) |
 
 **美国工业史与商界大亨**
 
@@ -118,12 +122,12 @@
 
 | 人物 | 成功领域 | 蒸馏切面 | 在线体验 |
 |------|----------|----------|----------|
-| **Cornelius Vanderbilt** | 铁路 / 航运 | 铁路与航运 · 镀金时代规模与价格战 | [对话](https://agenworld.com/market) |
-| **John D. Rockefeller** | 石油 / 产业整合 | 标准石油 · 整合、成本与慈善的公开叙事 | [对话](https://agenworld.com/market) |
-| **Andrew Carnegie** | 钢铁 / 慈善 | 钢铁王 · 《财富的福音》与公共图书馆 | [对话](https://agenworld.com/market) |
-| **Henry Ford** | 汽车制造 / 流水线 | 流水线与 T 型车 · 大众消费主义 | [对话](https://agenworld.com/market) |
-| **J.P. Morgan** | 金融 / 产业并购 | 金融整合 · 铁路、钢铁与恐慌时期的流动性 | [对话](https://agenworld.com/market) |
-| **Sam Walton** | 零售 / 供应链 | 折扣零售 · 巡店、低价与《富甲美国》自述 | [对话](https://agenworld.com/market) |
+| **科尼利厄斯·范德比尔特** | 铁路 / 航运 | 铁路与航运 · 镀金时代规模与价格战 | [对话](https://agenworld.com/market) |
+| **约翰·D·洛克菲勒** | 石油 / 产业整合 | 标准石油 · 整合、成本与慈善的公开叙事 | [对话](https://agenworld.com/market) |
+| **安德鲁·卡内基** | 钢铁 / 慈善 | 钢铁王 · 《财富的福音》与公共图书馆 | [对话](https://agenworld.com/market) |
+| **亨利·福特** | 汽车制造 / 流水线 | 流水线与 T 型车 · 大众消费主义 | [对话](https://agenworld.com/market) |
+| **J·P·摩根** | 金融 / 产业并购 | 金融整合 · 铁路、钢铁与恐慌时期的流动性 | [对话](https://agenworld.com/market) |
+| **山姆·沃尔顿** | 零售 / 供应链 | 折扣零售 · 巡店、低价与《富甲美国》自述 | [对话](https://agenworld.com/market) |
 
 > 预制内容仅供学习与方法论演练，不代表本人立场或授权。
 >
