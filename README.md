@@ -68,11 +68,66 @@
 
 ---
 
-### ② 蒸笼 — 蒸馏名人的认知框架，让公开方法论服务你
+### ② 蒸笼 — 顶流挣了你那么多钱，也该服务你一下了吧
 
-顶流用你的钱验证了世界怎么运转。TA 的讲演、访谈、课程、博客全是公开的。**蒸笼把这些被验证过的认知框架变成你的 AI 参谋**——不是让真人打工，是让公开知识 7×24 当顾问。
+你买了 TA 的书、报了 TA 的课、充了 TA 的会员、看了 TA 几百小时的访谈。**TA 用你出的钱验证了世界怎么运转**——创业者用融资试错，投资人用 LP 的钱下注，讲师把你的学费变成行业实践再卖给下一批人。**这条链条的起点，是你。**
+
+现在，这些被你的钱验证过的认知框架——讲演是公开的、访谈是公开的、博客是公开的——散落在你收藏夹第 200 页吃灰。**蒸笼做的事：把它们结构化提取出来，变成你的 AI 能加载的私人参谋。**
+
+> **这才是认知财富的再分配**：别人用我们给的钱验证过世界怎么运转，作为出资人、消费者、方法论的验证者——大众完全有权运用这些被验证过的认知框架服务自己。不是让真人打工，是让公开知识 7×24 当顾问。**你仍然是拍板的人。**
 
 **入口**：Agent 执行 **[`steamer-skill/SKILL.md`](steamer-skill/SKILL.md)** · 人读故事 **[蒸笼 README](steamer-skill/README.md)**
+
+#### 已蒸馏人格 · [公共人格广场](https://agenworld.com/market)
+
+> 基于公开讲演、访谈与史料整理的 **预制蒸馏结果**，可直接在线对话或复制指令给其他 AI。持续扩充中。
+>
+> 👉 **[在线体验 · 人格广场](https://agenworld.com/market)**
+
+**当代 · 公开言论与思想**
+
+> 投资、科技、科学传播、AI 业界 Keynote 与公开论述等可核对材料
+
+| 人物 | 成功领域 | 蒸馏切面 | 在线体验 |
+|------|----------|----------|----------|
+| **Elon Musk** | 航天 / 电动车 / 能源 | 第一性原理 · 量产与多行星叙事 | [对话](https://agenworld.com/market) |
+| **Albert Einstein** | 理论物理 / 科学哲学 | 思想实验 · 相对论与和平主义 | [对话](https://agenworld.com/market) |
+| **Warren Buffett** | 价值投资 / 资本配置 | 能力圈 · 长期主义与致股东信 | [对话](https://agenworld.com/market) |
+| **Steve Jobs** | 消费电子 / 产品设计 | 人文 × 科技 · Keynote 与斯坦福演讲中的产品哲学 | [对话](https://agenworld.com/market) |
+| **Sam Altman** | AGI / 创业孵化 | 产品化 AGI 叙事 · 听证与博客中的治理框架 | [对话](https://agenworld.com/market) |
+| **Jensen Huang** | GPU / 加速计算 | 加速计算 · CUDA 生态与 GTC 第一性原理 | [对话](https://agenworld.com/market) |
+| **Demis Hassabis** | AI for Science / 深度学习 | 强化学习 × 科学 · AlphaFold 与 AI for Science | [对话](https://agenworld.com/market) |
+| **Yann LeCun** | 计算机视觉 / 自监督学习 | 世界模型与自监督 · 公开论战中的架构路线 | [对话](https://agenworld.com/market) |
+| **Geoffrey Hinton** | 深度学习 / 神经网络 | 表征学习 · 深度学习史与近年风险论述 | [对话](https://agenworld.com/market) |
+
+**古典至文艺复兴**
+
+> 哲学文本、科学史与罗马史述中的形象；多为二手记载，适合读史与思辨演练
+
+| 人物 | 成功领域 | 蒸馏切面 | 在线体验 |
+|------|----------|----------|----------|
+| **Socrates** | 哲学 / 辩证法 | 诘问法 · 古典文献中的哲人形象 | [对话](https://agenworld.com/market) |
+| **Archimedes** | 数学 / 工程 | 几何证明 · 古代数学与工程叙事 | [对话](https://agenworld.com/market) |
+| **Cleopatra VII** | 政治外交 / 帝国博弈 | 托勒密末期 · 罗马史述中的政治博弈 | [对话](https://agenworld.com/market) |
+| **Marcus Aurelius** | 哲学 / 帝国治理 | 沉思录 · 斯多葛与罗马皇帝 | [对话](https://agenworld.com/market) |
+| **Leonardo da Vinci** | 艺术 / 工程 / 科学 | 笔记与手稿 · 文艺复兴通才 | [对话](https://agenworld.com/market) |
+
+**美国工业史与商界大亨**
+
+> 镀金时代至二十世纪折扣零售；基于传记、公开回忆录、报章与商业史研究整理
+
+| 人物 | 成功领域 | 蒸馏切面 | 在线体验 |
+|------|----------|----------|----------|
+| **Cornelius Vanderbilt** | 铁路 / 航运 | 铁路与航运 · 镀金时代规模与价格战 | [对话](https://agenworld.com/market) |
+| **John D. Rockefeller** | 石油 / 产业整合 | 标准石油 · 整合、成本与慈善的公开叙事 | [对话](https://agenworld.com/market) |
+| **Andrew Carnegie** | 钢铁 / 慈善 | 钢铁王 · 《财富的福音》与公共图书馆 | [对话](https://agenworld.com/market) |
+| **Henry Ford** | 汽车制造 / 流水线 | 流水线与 T 型车 · 大众消费主义 | [对话](https://agenworld.com/market) |
+| **J.P. Morgan** | 金融 / 产业并购 | 金融整合 · 铁路、钢铁与恐慌时期的流动性 | [对话](https://agenworld.com/market) |
+| **Sam Walton** | 零售 / 供应链 | 折扣零售 · 巡店、低价与《富甲美国》自述 | [对话](https://agenworld.com/market) |
+
+> 预制内容仅供学习与方法论演练，不代表本人立场或授权。
+>
+> 想蒸馏不在广场里的人？用蒸笼，说「蒸馏一个 XXX」就行。
 
 ---
 
