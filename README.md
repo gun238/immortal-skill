@@ -68,7 +68,8 @@
 | **② 蒸笼** | 蒸馏任何人的认知框架当参谋 | [steamer-skill](https://github.com/agenmod/steamer-skill) | [`steamer-skill/`](steamer-skill/) |
 | **③ 防蒸馏** | 三层纵深防御，不做数字裸奔 | [distill-shield-skill](https://github.com/agenmod/distill-shield-skill) | [`distill-shield-skill/`](distill-shield-skill/) |
 | **④ 蒸馏协议** | 六问分离授权，aka「牛马保护法」 | [distill-protocol-skill](https://github.com/agenmod/distill-protocol-skill) | [`distill-protocol-skill/`](distill-protocol-skill/) |
-| **⑤ OKR.skill** | AI 驱动的 OKR 实战框架 | [okr-skill](https://github.com/agenmod/okr-skill) | — |
+| **⑤ 老己 (Mirror)** | 从 AI 对话中蒸馏「你老己是谁」 | [mirror-skill](https://github.com/agenmod/mirror-skill) | — |
+| **⑥ OKR.skill** | AI 驱动的 OKR 实战框架 | [okr-skill](https://github.com/agenmod/okr-skill) | — |
 
 ---
 
