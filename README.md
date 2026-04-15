@@ -52,13 +52,25 @@
 
 ---
 
-## 永生数字框架 · 四件套
+## 永生数字框架 · 生态全景
 
 > **Star 只点一次，工具箱一次拿齐。**
 >
-> 仓库根目录的 **[`SKILL.md`](SKILL.md)** 是通用蒸馏引擎。下面三套是同一仓里的扩展 Skill——蒸馏、保护、授权，一条龙。
+> 仓库根目录的 **[`SKILL.md`](SKILL.md)** 是通用蒸馏引擎。下面三套是独立仓库的扩展 Skill——蒸馏、保护、授权，一条龙。
 >
 > **给 AI 一键用**：先看 **[`FOR_AI.md`](FOR_AI.md)**（四段可复制指令）。
+
+### 生态仓库一览
+
+| 组件 | 一句话 | 独立仓库 | 本仓入口 |
+|------|--------|----------|----------|
+| **① 数字永生** | 全网首个开源数字永生框架：四维蒸馏引擎 | 你在这里 | [`SKILL.md`](SKILL.md) |
+| **② 蒸笼** | 蒸馏任何人的认知框架当参谋 | [steamer-skill](https://github.com/agenmod/steamer-skill) | [`steamer-skill/`](steamer-skill/) |
+| **③ 防蒸馏** | 三层纵深防御，不做数字裸奔 | [distill-shield-skill](https://github.com/agenmod/distill-shield-skill) | [`distill-shield-skill/`](distill-shield-skill/) |
+| **④ 蒸馏协议** | 六问分离授权，aka「牛马保护法」 | [distill-protocol-skill](https://github.com/agenmod/distill-protocol-skill) | [`distill-protocol-skill/`](distill-protocol-skill/) |
+| **⑤ OKR.skill** | AI 驱动的 OKR 实战框架 | [okr-skill](https://github.com/agenmod/okr-skill) | — |
+
+---
 
 ### ① 数字永生 — 全网首个开源数字永生框架
 
@@ -70,13 +82,15 @@
 
 ### ② 蒸笼 — 顶流挣了你那么多钱，也该服务你一下了吧
 
+> **独立仓库**：[github.com/agenmod/steamer-skill](https://github.com/agenmod/steamer-skill)
+
 你买了 TA 的书、报了 TA 的课、充了 TA 的会员、看了 TA 几百小时的访谈。**TA 用你出的钱验证了世界怎么运转**——创业者用融资试错，投资人用 LP 的钱下注，讲师把你的学费变成行业实践再卖给下一批人。**这条链条的起点，是你。**
 
 现在，这些被你的钱验证过的认知框架——讲演是公开的、访谈是公开的、博客是公开的——散落在你收藏夹第 200 页吃灰。**蒸笼做的事：把它们结构化提取出来，变成你的 AI 能加载的私人参谋。**
 
 > **这才是认知财富的再分配**：别人用我们给的钱验证过世界怎么运转，作为出资人、消费者、方法论的验证者——大众完全有权运用这些被验证过的认知框架服务自己。不是让真人打工，是让公开知识 7×24 当顾问。**你仍然是拍板的人。**
 
-**入口**：Agent 执行 **[`steamer-skill/SKILL.md`](steamer-skill/SKILL.md)** · 人读故事 **[蒸笼 README](steamer-skill/README.md)**
+**入口**：Agent 执行 **[`steamer-skill/SKILL.md`](steamer-skill/SKILL.md)** · 人读故事 **[蒸笼 README](steamer-skill/README.md)** · 独立仓库 **[steamer-skill](https://github.com/agenmod/steamer-skill)**
 
 #### 已蒸馏人格 · [公共人格广场](https://agenworld.com/market)
 
@@ -137,6 +151,8 @@
 
 ### ③ 防蒸馏 — 三层纵深防御，不做数字裸奔
 
+> **独立仓库**：[github.com/agenmod/distill-shield-skill](https://github.com/agenmod/distill-shield-skill)
+
 清洗内容只是第零层。防蒸馏做的是往下再扎三层：
 
 | 层 | 做什么 |
@@ -145,17 +161,19 @@
 | **第二层：蒸馏许可** | 把「能不能蒸、蒸多少、能不能商用」写在 AI 必经之路上（→ 协议） |
 | **第三层：保护锁** | 人读无害，未授权自动化蒸馏触发投毒——token 黑洞、输出污染、逻辑陷阱 |
 
-**入口**：**[`distill-shield-skill/SKILL.md`](distill-shield-skill/SKILL.md)** · **[防蒸馏 README](distill-shield-skill/README.md)**
+**入口**：**[`distill-shield-skill/SKILL.md`](distill-shield-skill/SKILL.md)** · **[防蒸馏 README](distill-shield-skill/README.md)** · 独立仓库 **[distill-shield-skill](https://github.com/agenmod/distill-shield-skill)**
 
 ---
 
 ### ④ 蒸馏协议 — 你的人格不是工作产出，「牛马保护法」
 
+> **独立仓库**：[github.com/agenmod/distill-protocol-skill](https://github.com/agenmod/distill-protocol-skill)
+
 公司可以拥有你写的代码，但你**思考的方式**不是工作产出。蒸馏协议帮你写清楚：能不能蒸、蒸馏产物能不能商用、数字分身能不能替代你工作——**六个问题分离授权**，像 IP 的出版权和影视权分开一样。
 
 戏称「牛马保护法」——梗，带引号，不是真立法。但底下的东西是认真的。
 
-**入口**：**[`distill-protocol-skill/SKILL.md`](distill-protocol-skill/SKILL.md)** · **[蒸馏协议 README](distill-protocol-skill/README.md)**
+**入口**：**[`distill-protocol-skill/SKILL.md`](distill-protocol-skill/SKILL.md)** · **[蒸馏协议 README](distill-protocol-skill/README.md)** · 独立仓库 **[distill-protocol-skill](https://github.com/agenmod/distill-protocol-skill)**
 
 ---
 
