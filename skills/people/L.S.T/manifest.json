@@ -1,0 +1,27 @@
+﻿{
+    "slug":  "wx-wxid-zjeibaove7ib22",
+    "profile_mode":  "wechat-adaptive",
+    "built_at":  "2026-04-17T04:50:39Z",
+    "sources_summarized":  [
+                               "wechat:L.S.T__wxid_zjeibaove7ib22.csv"
+                           ],
+    "platforms":  [
+
+                  ],
+    "kit":  "immortal-skill",
+    "dimensions":  [
+                       "procedure",
+                       "interaction",
+                       "memory",
+                       "personality"
+                   ],
+    "fingerprints":  {
+                         "conflicts.md":  "b77392db414bc852a71bd965ae4e9694a1c5544f6fe73398f197cc3664896515",
+                         "interaction.md":  "82885b172d452e80408d1584b70310015616460e95ad7addd4d2033485478897",
+                         "memory.md":  "8f17e11e48346b366480a5a545b61b010db2ac96c174053956667e9db24bd674",
+                         "personality.md":  "9568f5e7d46731f7b4ed5dcf1a83036bde39d216041ac7fb3624685832f3cb35",
+                         "procedure.md":  "e2ff723d4d3680ecf8ae878a952d7379d062db0d4da134c7f52043c5564cbda4",
+                         "SKILL.md":  "a793c8e0276feea28e43963a725578579b7abc0f46f5b28522c137bdc544ea67"
+                     },
+    "note":  "wechat_adaptive_codex_manual"
+}
