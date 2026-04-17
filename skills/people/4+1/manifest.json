@@ -1,0 +1,27 @@
+﻿{
+    "slug":  "wx-wxid-5gbzql2ws43b22",
+    "profile_mode":  "wechat-adaptive",
+    "built_at":  "2026-04-17T05:05:38Z",
+    "sources_summarized":  [
+                               "wechat:4_1__wxid_5gbzql2ws43b22.csv"
+                           ],
+    "platforms":  [
+
+                  ],
+    "kit":  "immortal-skill",
+    "dimensions":  [
+                       "procedure",
+                       "interaction",
+                       "memory",
+                       "personality"
+                   ],
+    "fingerprints":  {
+                         "conflicts.md":  "ed7ea230822befc032b3a59e415855e909d14439c640d6f5231a29c83974dd63",
+                         "interaction.md":  "25d858cd726e4cb85a746143ae0ab72bd09b083746877026e4b71c9ffc245e14",
+                         "memory.md":  "2165a1a26f6226f7b1e85fcb3540e3e893c4eaa308c661e54a52c45799c73ff3",
+                         "personality.md":  "fb760edeeaeba9339e073dbb73764886314271d4aded33b7f19b3dc9573074af",
+                         "procedure.md":  "4485d52f45cd551b47739ec6fc963768560a0aa6bb5200b82680ad53c9e0269f",
+                         "SKILL.md":  "6d056abdee1bfb2a7342161b0a9ea6bba22d05a9505ed9f30bc0832018be5293"
+                     },
+    "note":  "wechat_adaptive_codex_manual"
+}
