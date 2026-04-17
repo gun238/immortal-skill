@@ -219,8 +219,7 @@ def main() -> None:
     p_init = sub.add_parser("init", help="初始化 skill 目录")
     p_init.add_argument("--slug", required=True)
     p_init.add_argument("--base", default="./skills/immortals")
-    p_init.add_argument("--persona", default="self",
-                        choices=["self", "colleague", "mentor", "family", "partner", "friend", "public-figure"])
+    p_init.add_argument("--persona", default=None, help="Deprecated and ignored.")
     p_init.add_argument("--force", action="store_true")
     p_init.set_defaults(func=cmd_init)
 
