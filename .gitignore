@@ -7,3 +7,5 @@ __pycache__/
 feishu.json
 dingtalk.json
 *.env
+distill_outputs/
+skills/immortals/
